@@ -15,6 +15,16 @@ This paper covers using rings and LWE for a lattice hard probelm:
 
 https://www.iacr.org/archive/eurocrypt2010/66320288/66320288.pdf
 
+
+Proper python implemenation can be found [here](https://github.com/GiacomoPope/kyber-py), but it isn't for use only for study.
+
+
+# Todo
+
+~~lwe linear system~~
+
+refactor it into something less gross. 
+
 ### Structure
 
 Maybe make this a package
