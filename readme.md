@@ -25,6 +25,8 @@ Proper python implemenation can be found [here](https://github.com/GiacomoPope/k
 
 refactor it into something less gross. 
 
+look into wtf a ring LWE is from the paper. 
+
 ### Structure
 
 Maybe make this a package
